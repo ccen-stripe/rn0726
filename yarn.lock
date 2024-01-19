@@ -1963,6 +1963,11 @@
   dependencies:
     "@sinonjs/commons" "^3.0.0"
 
+"@stripe/stripe-identity-react-native@^0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-identity-react-native/-/stripe-identity-react-native-0.2.3.tgz#51345bf91a10281c1ecd1908f51f09d3ec24af58"
+  integrity sha512-opdHl0kx3zDlMVN5Lu5U+/8J9CprF7nkcY2pCZmVaBG+L0laW2P8dgT36SIZYM8x3TfmnccXYqIXVwYgIZIDSQ==
+
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0":
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.6.tgz#7739c232a1fee9b4d3ce8985f314c0c6d33549d7"
@@ -3201,6 +3206,13 @@ expo-modules-core@1.5.13:
   dependencies:
     compare-versions "^3.4.0"
     invariant "^2.2.4"
+
+expo-splash-screen@~0.20.5:
+  version "0.20.5"
+  resolved "https://registry.yarnpkg.com/expo-splash-screen/-/expo-splash-screen-0.20.5.tgz#ebeba3e3977606830f74f506ab2cc25042bb7efd"
+  integrity sha512-nTALYdjHpeEA30rdOWSguxn72ctv8WM8ptuUgpfRgsWyn4i6rwYds/rBXisX69XO5fg+XjHAQqijGx/b28+3tg==
+  dependencies:
+    "@expo/prebuild-config" "6.2.6"
 
 expo-status-bar@~1.6.0:
   version "1.6.0"
