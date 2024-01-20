@@ -7,7 +7,7 @@ import {
   IdentityVerificationSheetOptions,
 } from '@stripe/stripe-identity-react-native';
 
-import logo from './assets/logo.png';
+import logo from './assets/icon.png';
 
 export default function App() {
 
