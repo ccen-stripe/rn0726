@@ -2056,10 +2056,10 @@
   resolved "https://registry.yarnpkg.com/@ide/backoff/-/backoff-1.0.0.tgz#466842c25bd4a4833e0642fab41ccff064010176"
   integrity sha512-F0YfUDjvT+Mtt/R4xdl2X0EYCHMMiJqNLdxHD++jDT5ydEFIyqbCHh51Qx2E211dgZprPKhV7sHmnXKpLuvc5g==
 
-"@intercom/intercom-react-native@5.3.1":
-  version "5.3.1"
-  resolved "https://registry.yarnpkg.com/@intercom/intercom-react-native/-/intercom-react-native-5.3.1.tgz#c91a8004668409a3a3b6f0bcc2581f52fa42dbd0"
-  integrity sha512-peZ+ClyXw9Ak0AjTzw6zgjYlO/RCIy+aVTgWFjacxCaTX5rZR2SxtTk06QYJwU/WGeonb7S4uzQICNf3pDUMIQ==
+"@intercom/intercom-react-native@6.4.0":
+  version "6.4.0"
+  resolved "https://registry.yarnpkg.com/@intercom/intercom-react-native/-/intercom-react-native-6.4.0.tgz#460408a6fd6450fd3e87a3d4021d78137240c931"
+  integrity sha512-gBWKZRLvSOeL9wGJZg7UBPVQYIUwN8WNACKnIIUEww7TEtwbVfBMtTJ21vyDBBoAtEp6pwvPg6J/Gc3xsREzDA==
 
 "@isaacs/cliui@^8.0.2":
   version "8.0.2"
