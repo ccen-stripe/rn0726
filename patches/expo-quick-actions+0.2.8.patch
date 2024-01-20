@@ -1,0 +1,20 @@
+diff --git a/node_modules/expo-quick-actions/android/build.gradle b/node_modules/expo-quick-actions/android/build.gradle
+index b30da32..2489364 100644
+--- a/node_modules/expo-quick-actions/android/build.gradle
++++ b/node_modules/expo-quick-actions/android/build.gradle
+@@ -53,15 +53,6 @@ afterEvaluate {
+ android {
+   compileSdkVersion safeExtGet("compileSdkVersion", 33)
+ 
+-  compileOptions {
+-    sourceCompatibility JavaVersion.VERSION_11
+-    targetCompatibility JavaVersion.VERSION_11
+-  }
+-
+-  kotlinOptions {
+-    jvmTarget = JavaVersion.VERSION_11.majorVersion
+-  }
+-
+   namespace "expo.modules.quickactions"
+   defaultConfig {
+     minSdkVersion safeExtGet("minSdkVersion", 21)
